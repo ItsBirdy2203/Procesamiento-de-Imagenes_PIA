@@ -17,7 +17,7 @@ En esta sección puedes:
 - Ver un histograma de colores actualizado según el filtro aplicado.
 - Descargar la imagen con el filtro directamente a tu disco.
 
-📸 **Captura de la pestaña de imagen**  
+ 
 ![Imagen 1](./screenshots/imagen1.png)
 
 ---
@@ -31,8 +31,9 @@ En esta sección puedes:
 - Aplicar los mismos filtros que en la pestaña de imagen.
 - Descargar el video con el filtro aplicado.
 
-📸 **Captura de la pestaña de video**  
+
 ![Imagen 2](./screenshots/imagen2.png)
+![Imagen 2](./screenshots/imagen3.png)
 
 ---
 
@@ -46,8 +47,8 @@ En esta pestaña puedes:
 
 > *Actualmente esta función está en desarrollo debido a falta de cámara para pruebas.*
 
-📸 **Captura de la pestaña de cámara**  
-![Imagen 3](./screenshots/imagen3.png)
+ 
+![Imagen 3](./screenshots/imagen4.png)
 
 ---
 
@@ -61,8 +62,3 @@ En esta pestaña puedes:
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/tuusuario/NOMBRE-DE-TU-REPO.git
